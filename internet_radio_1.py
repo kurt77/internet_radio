@@ -13,6 +13,7 @@
 #
 # Modified by: Matteo Ottoni
 # Date   : 30/05/2013
+# Version notes: added ctrl+c handling
 
 # The wiring for the LCD is as follows:
 # 1 : GND
